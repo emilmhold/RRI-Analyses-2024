@@ -1,0 +1,10 @@
+Network.metric,Resource,Estimate ± standard error,Chisq,Df,p.value
+Connectance,Light penetration,-0.029 ± 0.02,3.515,1,0.061
+Connectance,Soil NH4,0 ± 0.002,0.29,1,0.591
+Connectance,Light penetration:Soil NH4,-0.002 ± 0.006,0.09,1,0.764
+Nestedness,Light penetration,-0.058 ± 0.039,3.515,1,0.061
+Nestedness,Soil NH4,0.001 ± 0.005,0.29,1,0.591
+Nestedness,Light penetration:Soil NH4,-0.003 ± 0.011,0.09,1,0.764
+Clustering,Light penetration,-0.062 ± 0.04,3.708,1,0.054
+Clustering,Soil NH4,0.001 ± 0.005,0.016,1,0.901
+Clustering,Light penetration:Soil NH4,-0.003 ± 0.012,0.061,1,0.806

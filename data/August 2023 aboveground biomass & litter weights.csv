@@ -1,0 +1,205 @@
+Plot,Waypoint,Block,Treatment,Aboveground biomass (g),Litter (g)
+1,897,1,Sun/Fert/Thin,35.77,6.08
+2,897,1,Shade/No fert/Thin,26.41,50.91
+3,897,1,Shade/Fert/Thin,32.55,36.54
+4,897,1,Amb/Fert/Thin,21.83,19.32
+5,897,1,Sun/No fert/Thin,13.76,28.11
+6,897,1,Shade/No fert/No thin,30.19,21.44
+7,897,1,Amb/No fert/Thin,13.06,21.42
+8,897,1,Amb/Fert/No thin,28.12,8.56
+9,897,1,Shade/Fert/No thin,22.29,28.65
+10,897,1,Sun/Fert/No thin,30.84,9.56
+11,897,1,Sun/No fert/No thin,23.71,13.93
+12,897,1,Amb/No fert/No thin,17.35,10.08
+13,966,2,Sun/No fert/Thin,27.19,27.5
+14,966,2,Sun/Fert/Thin,34.9,37.14
+15,966,2,Amb/Fert/Thin,39.35,53.49
+16,966,2,Amb/No fert/Thin,44.01,19.48
+17,966,2,Shade/No fert/No thin,30.65,39.85
+18,966,2,Shade/Fert/No thin,27.34,44.06
+19,966,2,Sun/Fert/No thin,42.09,35.31
+20,966,2,Shade/No fert/Thin,35.35,31.83
+21,966,2,Shade/Fert/Thin,57.94,50.22
+22,966,2,Amb/Fert/No thin,26.96,17.57
+23,966,2,Sun/No fert/No thin,26.18,24.26
+24,966,2,Amb/No fert/No thin,40.9,25.09
+25,967,3,Sun/Fert/Thin,44.96,46.32
+26,967,3,Amb/Fert/Thin,48.44,43.93
+27,967,3,Amb/No fert/Thin,33.71,62.89
+28,967,3,Sun/No fert/No thin,27.87,56.64
+29,967,3,Shade/Fert/Thin,33.12,57.95
+30,967,3,Shade/No fert/No thin,27.27,85.78
+31,967,3,Shade/No fert/Thin,25.51,53.72
+32,967,3,Sun/Fert/No thin,43.7,121.77
+33,967,3,Sun/No fert/Thin,37.76,88.18
+34,967,3,Amb/Fert/No thin,38.19,52.34
+35,967,3,Amb/No fert/No thin,58.91,51.37
+36,967,3,Shade/Fert/No thin,37.42,139.94
+37,968,4,Shade/Fert/No thin,36.17,64.29
+38,968,4,Sun/No fert/Thin,34.17,56.36
+39,968,4,Shade/Fert/Thin,34.05,100.58
+40,968,4,Amb/Fert/Thin,50.88,49.28
+41,968,4,Sun/Fert/No thin,58.6,79.04
+42,968,4,Shade/No fert/Thin,39.93,87.59
+43,968,4,Amb/No fert/Thin,43.01,85.64
+44,968,4,Sun/Fert/Thin,53.42,58.68
+45,968,4,Shade/No fert/No thin,36.72,95.46
+46,968,4,Sun/No fert/No thin,37.01,84.78
+47,968,4,Amb/Fert/No thin,48.72,69.81
+48,968,4,Amb/No fert/No thin,37.99,78.56
+49,969,5,Shade/No fert/No thin,19.42,55.1
+50,969,5,Sun/Fert/Thin,15.76,56.03
+51,969,5,Shade/No fert/Thin,18.29,56.71
+52,969,5,Amb/No fert/No thin,28.42,64.85
+53,969,5,Amb/Fert/No thin,29.47,72.04
+54,969,5,Sun/No fert/No thin,22.29,51.15
+55,969,5,Amb/Fert/Thin,33.47,49.13
+56,969,5,Shade/Fert/Thin,13.92,75.09
+57,969,5,Sun/No fert/Thin,43.67,33.84
+58,969,5,Sun/Fert/No thin,44.57,58.09
+59,969,5,Shade/Fert/No thin,31.54,134.99
+60,969,5,Amb/No fert/Thin,28.09,32.49
+61,970,6,Sun/No fert/Thin,20.67,45.6
+62,970,6,Shade/Fert/Thin,45.81,50.66
+63,970,6,Sun/Fert/Thin,37.92,36.33
+64,970,6,Sun/No fert/No thin,21.17,48.06
+65,970,6,Amb/Fert/No thin,29.27,57.93
+66,970,6,Sun/Fert/No thin,30.42,41.99
+67,970,6,Amb/No fert/Thin,51.32,75.45
+68,970,6,Amb/Fert/Thin,44.15,84.63
+69,970,6,Shade/Fert/No thin,19.59,82.87
+70,970,6,Shade/No fert/No thin,20.2,56.11
+71,970,6,Amb/No fert/No thin,40.81,108.3
+72,970,6,Shade/No fert/Thin,45.22,66.54
+73,971,7,Amb/Fert/No thin,85.43,35.02
+74,971,7,Shade/No fert/No thin,47.97,58.62
+75,971,7,Shade/No fert/Thin,35.88,58.02
+76,971,7,Sun/No fert/Thin,23.95,40.12
+77,971,7,Shade/Fert/Thin,42.33,36.64
+78,971,7,Sun/Fert/No thin,40.1,44.28
+79,971,7,Sun/Fert/Thin,36.16,54.94
+80,971,7,Sun/No fert/No thin,37.18,54.16
+81,971,7,Amb/Fert/Thin,34.93,79.44
+82,971,7,Amb/No fert/No thin,52.16,67.25
+83,971,7,Amb/No fert/Thin,21.95,48.76
+84,971,7,Shade/Fert/No thin,29.57,47.23
+85,972,8,Shade/No fert/No thin,51.32,56.51
+86,972,8,Sun/No fert/No thin,36.54,41.65
+87,972,8,Sun/Fert/Thin,46.43,43.24
+88,972,8,Shade/Fert/No thin,53.4,46.79
+89,972,8,Amb/Fert/No thin,40.99,69.95
+90,972,8,Sun/No fert/Thin,25.64,43.94
+91,972,8,Amb/No fert/No thin,67.44,47.31
+92,972,8,Shade/Fert/Thin,24.59,67.85
+93,972,8,Amb/No fert/Thin,24.35,41.83
+94,972,8,Amb/Fert/Thin,66.7,78.23
+95,972,8,Shade/No fert/Thin,50.34,60.33
+96,972,8,Sun/Fert/No thin,48.92,70.58
+97,973,9,Amb/No fert/No thin,46.49,35.63
+98,973,9,Amb/Fert/No thin,20.98,26.13
+99,973,9,Shade/Fert/Thin,39.27,58.19
+100,973,9,Shade/No fert/Thin,36.08,44.78
+101,973,9,Sun/Fert/Thin,57.27,25.52
+102,973,9,Amb/Fert/Thin,49.28,29.27
+103,973,9,Shade/No fert/No thin,26.64,48.86
+104,973,9,Sun/No fert/Thin,31.09,25.03
+105,973,9,Sun/No fert/No thin,29.43,41.63
+106,973,9,Shade/Fert/No thin,28.64,68.14
+107,973,9,Amb/No fert/Thin,22.78,39.42
+108,973,9,Sun/Fert/No thin,36.46,65.51
+109,974,10,Shade/Fert/Thin,56.48,29.31
+110,974,10,Shade/No fert/Thin,39.39,33.48
+111,974,10,Amb/No fert/No thin,38.21,38.42
+112,974,10,Amb/Fert/Thin,56.61,37.32
+113,974,10,Sun/Fert/Thin,65.26,52.94
+114,974,10,Amb/Fert/No thin,42.05,25.54
+115,974,10,Sun/No fert/Thin,37.82,56.18
+116,974,10,Sun/No fert/No thin,35.22,61.45
+117,974,10,Amb/No fert/Thin,36.08,35.52
+118,974,10,Shade/Fert/No thin,41.85,57.02
+119,974,10,Shade/No fert/No thin,26.29,105.65
+120,974,10,Sun/Fert/No thin,54.53,80.99
+121,975,11,Shade/No fert/Thin,49.08,26.96
+122,975,11,Shade/No fert/No thin,61.62,53.55
+123,975,11,Amb/Fert/Thin,37.65,17.28
+124,975,11,Shade/Fert/Thin,45.06,81
+125,975,11,Sun/No fert/No thin,44.33,56.36
+126,975,11,Shade/Fert/No thin,33.09,44.95
+127,975,11,Amb/Fert/No thin,69.14,77.4
+128,975,11,Sun/Fert/Thin,61.79,55.25
+129,975,11,Amb/No fert/No thin,37.84,55.04
+130,975,11,Sun/No fert/Thin,31.5,37.61
+131,975,11,Sun/Fert/No thin,36,46.41
+132,975,11,Amb/No fert/Thin,33.96,45.27
+133,976,12,Sun/Fert/Thin,40.25,46.8
+134,976,12,Sun/No fert/No thin,45.81,62.72
+135,976,12,Amb/Fert/Thin,49.66,47.2
+136,976,12,Sun/Fert/No thin,58.31,51.39
+137,976,12,Amb/Fert/No thin,52.7,59.4
+138,976,12,Amb/No fert/Thin,32.43,45.96
+139,976,12,Shade/No fert/No thin,50.15,67.58
+140,976,12,Shade/Fert/No thin,52.58,59.74
+141,976,12,Shade/No fert/Thin,34.05,54.53
+142,976,12,Amb/No fert/No thin,40.57,51.52
+143,976,12,Shade/Fert/Thin,45.13,60.02
+144,976,12,Sun/No fert/Thin,32.62,41.21
+145,977,13,Sun/No fert/Thin,34.57,50.51
+146,977,13,Amb/No fert/Thin,33.25,41.66
+147,977,13,Sun/No fert/No thin,26.66,38.54
+148,977,13,Amb/Fert/Thin,34.23,45.96
+149,977,13,Amb/Fert/No thin,43.88,45.2
+150,977,13,Shade/Fert/Thin,69.68,51.82
+151,977,13,Sun/Fert/Thin,48.12,47.9
+152,977,13,Shade/Fert/No thin,37.53,62.79
+153,977,13,Shade/No fert/No thin,40.2,47.29
+154,977,13,Sun/Fert/No thin,43.36,58.89
+155,977,13,Shade/No fert/Thin,36.9,50.08
+156,977,13,Amb/No fert/No thin,51.12,70.24
+157,978,14,Shade/Fert/No thin,54.03,59.28
+158,978,14,Shade/No fert/No thin,41.38,54.5
+159,978,14,Shade/No fert/Thin,41.08,61.74
+160,978,14,Shade/Fert/Thin,50.63,47.84
+161,978,14,Sun/No fert/Thin,28.74,39.54
+162,978,14,Amb/Fert/No thin,73.17,32.55
+163,978,14,Sun/No fert/No thin,30.84,65.95
+164,978,14,Sun/Fert/Thin,50.72,54.09
+165,978,14,Amb/No fert/No thin,58.12,75.75
+166,978,14,Amb/No fert/Thin,37.38,46.17
+167,978,14,Amb/Fert/Thin,35.78,54.58
+168,978,14,Sun/Fert/No thin,66.67,40.71
+169,979,15,Amb/Fert/Thin,34.35,30.16
+170,979,15,Amb/Fert/No thin,57.43,61.62
+171,979,15,Sun/Fert/No thin,38.52,74.02
+172,979,15,Amb/No fert/Thin,44.97,32.42
+173,979,15,Shade/Fert/Thin,49.34,50.53
+174,979,15,Amb/No fert/No thin,33.77,32.47
+175,979,15,Shade/No fert/Thin,29.7,30.81
+176,979,15,Sun/Fert/Thin,36.39,40.85
+177,979,15,Shade/Fert/No thin,53.66,52.03
+178,979,15,Shade/No fert/No thin,45.71,55.2
+179,979,15,Sun/No fert/No thin,37.67,46.76
+180,979,15,Sun/No fert/Thin,37.87,52.13
+181,980,16,Shade/Fert/No thin,40.94,25.93
+182,980,16,Sun/Fert/No thin,36.92,31.7
+183,980,16,Shade/No fert/Thin,46.56,74.21
+184,980,16,Sun/No fert/No thin,32.25,41.3
+185,980,16,Sun/No fert/Thin,14.5,31.01
+186,980,16,Shade/Fert/Thin,42.57,42.87
+187,980,16,Sun/Fert/Thin,30.75,28.81
+188,980,16,Amb/Fert/No thin,26.85,49.22
+189,980,16,Amb/No fert/Thin,23.19,26.75
+190,980,16,Shade/No fert/No thin,26.35,7.13
+191,980,16,Amb/Fert/Thin,44.93,58.05
+192,980,16,Amb/No fert/No thin,30.77,58.43
+193,981,17,Shade/Fert/Thin,29.84,103.19
+194,981,17,Shade/No fert/Thin,36.03,19.61
+195,981,17,Sun/Fert/No thin,38.42,50.51
+196,981,17,Shade/No fert/No thin,29.36,54.76
+197,981,17,Amb/Fert/Thin,71.64,42.58
+198,981,17,Amb/No fert/Thin,39.16,34.28
+199,981,17,Shade/Fert/No thin,36.97,72.97
+200,981,17,Sun/No fert/No thin,25.59,43
+201,981,17,Sun/No fert/Thin,31.44,29.99
+202,981,17,Amb/No fert/No thin,31.15,39.61
+203,981,17,Sun/Fert/Thin,62.92,135.44
+204,981,17,Amb/Fert/No thin,50.01,58.24

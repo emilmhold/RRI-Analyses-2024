@@ -1,0 +1,15 @@
+EGS,Network metric,Estimate ± standard error,Chisq,Df,p.value
+Species richness,Nestedness,-12.892 ± 92.362,NA,0,NA
+Species richness,Connectance,18.833 ± 611.677,13.966,1,0
+Species richness,Clustering,19.428 ± 94.423,23.854,1,0
+Species richness,Connectance:Nestedness,153.06 ± 491.429,0.112,1,0.738
+Species richness,Connectance:Clustering,-55.501 ± 567.383,2.101,1,0.147
+Species richness,Connectance:Nestedness:Clustering,-103.428 ± 445.63,0.054,1,0.816
+NA,Nestedness:Clustering,NA ± NA,NA,0,NA
+ANPP,Nestedness,2906.765 ± 3400.01,NA,0,NA
+ANPP,Connectance,-13668.455 ± 22487.08,0.611,1,0.434
+ANPP,Clustering,-3438.429 ± 3467.741,0.143,1,0.705
+ANPP,Connectance:Nestedness,9212.284 ± 18035.513,0.367,1,0.545
+ANPP,Connectance:Clustering,17447.677 ± 20851.122,0.527,1,0.468
+ANPP,Connectance:Nestedness:Clustering,-11323.589 ± 16359.026,0.479,1,0.489
+NA,Nestedness:Clustering,NA ± NA,NA,0,NA
